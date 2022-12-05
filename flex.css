@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+.parent {
+    height: 200px;
+    width: 200px;
+    border: 10px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent div{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+}

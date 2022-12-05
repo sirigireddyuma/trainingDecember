@@ -1,0 +1,18 @@
+body{
+    background-color:wheat;
+}
+h1{
+    background-color:black;
+    width: 200px;
+    height: 40px;   
+
+}
+#heading-1{
+    background-color: aquamarine;
+}
+.heading {
+    background-color: blueviolet;
+}
+.two{
+    font-size: 20px;
+}
